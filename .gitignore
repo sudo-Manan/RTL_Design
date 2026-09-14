@@ -1,0 +1,6 @@
+# VS Code files
+*.vscode
+*.code-workspace
+
+#Temporary Folder
+Temp/
